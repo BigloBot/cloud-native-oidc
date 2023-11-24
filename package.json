@@ -6,7 +6,7 @@
 		"@types/node": "18.x"
 	},
 	"scripts": {
-		"start": "node scripts/setup.mjs --issuer https://nice-bush-0edcf1310.4.azurestaticapps.net",
+		"start": "node scripts/setup.mjs --issuer https://biglobot.github.io/cloud-native-oidc/",
 		"keys": "node scripts/create-key.mjs"
 	}
 }

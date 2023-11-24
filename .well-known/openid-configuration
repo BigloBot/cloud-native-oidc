@@ -2,9 +2,9 @@
   "id_token_signing_alg_values_supported": [
     "RS256"
   ],
-  "issuer": "https://nice-bush-0edcf1310.4.azurestaticapps.net",
-  "jwks_uri": "https://nice-bush-0edcf1310.4.azurestaticapps.net/.well-known/jwks.json",
-  "authorization_endpoint": "https://nice-bush-0edcf1310.4.azurestaticapps.net",
+  "issuer": "https://biglobot.github.io/cloud-native-oidc",
+  "jwks_uri": "https://biglobot.github.io/cloud-native-oidc/.well-known/jwks.json",
+  "authorization_endpoint": "https://biglobot.github.io/cloud-native-oidc",
   "response_types_supported": [
     "id_token"
   ],
