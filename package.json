@@ -4,5 +4,9 @@
 	},
 	"devDependencies": {
 		"@types/node": "18.x"
+	},
+	"scripts": {
+		"start": "node scripts/setup.mjs --issuer https://zealous-field-05eb58510.4.azurestaticapps.net",
+		"keys": "node scripts/create-key.mjs"
 	}
 }

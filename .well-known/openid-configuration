@@ -2,9 +2,9 @@
   "id_token_signing_alg_values_supported": [
     "RS256"
   ],
-  "issuer": "https://dtinth.github.io/self-openid",
-  "jwks_uri": "https://dtinth.github.io/self-openid/.well-known/jwks.json",
-  "authorization_endpoint": "https://dtinth.github.io/self-openid",
+  "issuer": "https://zealous-field-05eb58510.4.azurestaticapps.net",
+  "jwks_uri": "https://zealous-field-05eb58510.4.azurestaticapps.net/.well-known/jwks.json",
+  "authorization_endpoint": "https://zealous-field-05eb58510.4.azurestaticapps.net",
   "response_types_supported": [
     "id_token"
   ],
